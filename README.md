@@ -20,3 +20,9 @@
 
 3. ## **WireGuard VPN using Dynamic DNS**
 + [How to set up wireguard VPN using dynamic DNS](https://www.youtube.com/watch?v=3VPtSRVybA8&ab_channel=CodeFallacy)
+
+4. ## **Backup Server Ideas**
++ [Self-Host Vaultwarden with Scheduled Backups](https://akashrajpurohit.com/blog/selfhost-vaultwarden-with-scheduled-backups/)
++ [Self-Host Vaultwarden with Scheduled Backups](https://akashrajpurohit.com/blog/selfhost-vaultwarden-with-scheduled-backups/)
++ [How I Safeguard Essential Data in My Homelab with Off-site Backup on Cloud](https://akashrajpurohit.com/blog/how-i-safeguard-essential-data-in-my-homelab-with-offsite-backup-on-cloud/#:~:text=On%20startup%2C%20sync%20everything%20from,folder%20to%20the%20cloud%20storage.)
+  
