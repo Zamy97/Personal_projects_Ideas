@@ -14,3 +14,5 @@
 + [automatically store photos from phone to unraid?](https://forums.unraid.net/topic/96057-automatically-store-photos-from-phone-to-unraid/)
 + [Immich](https://immich.app/docs/developer/setup/)
 + [Magic Mirror Scripts](https://github.com/sdetweil/MagicMirror_scripts)
+
+2. ## **Next Cloud**
