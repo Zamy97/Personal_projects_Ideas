@@ -16,3 +16,7 @@
 + [Magic Mirror Scripts](https://github.com/sdetweil/MagicMirror_scripts)
 
 2. ## **Next Cloud**
++ [How to access Nextcloud from outside home](https://www.youtube.com/watch?v=bjowt4_UJYE&ab_channel=NovaspiritTech)
+
+3. ## **WireGuard VPN using Dynamic DNS**
++ [How to set up wireguard VPN using dynamic DNS](https://www.youtube.com/watch?v=3VPtSRVybA8&ab_channel=CodeFallacy)
